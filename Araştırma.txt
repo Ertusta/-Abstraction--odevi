@@ -1,0 +1,1 @@
+//Aynı veri tipinden çok sayıda değişkeni yan yana pointerlara koymaktır. Arraye ait değişkenler, sıra numarası verilmiş bir liste gibidir. Bu listeye ait olan öğelere de sıra numarasıyla erişilir.
